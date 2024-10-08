@@ -1,0 +1,102 @@
+We have 4 clans in our Institute: Water Shark, Forest Rhinos, Air Falcons & Wild Cats.
+Avarneeya for AIML, MRSDC for coding competitions, Cyber Cell for Cyber Security.
+There are 2 internships required: one in 3rd semester and the other in the 5th semester.
+Students are allowed to reappear in exams if they fail to meet the minimum passing marks. Reappear exams are conducted at the end of each semester.
+There are 2 exams in each semester: sessional exams and end semester examinations.
+75% is mandatory
+DTI is a curriculum introduced in the 3rd semester where students are given the choice to select from various interdisciplinary projects.
+The department has over 30 faculty members with expertise in various fields of computer science.
+Dr. Tapas Kumar.
+Mr. Prabhjot Singh.
+The open house policy allows students to freely interact with faculty members to discuss academic issues, project guidance, and research collaboration.
+Specializations include Artificial Intelligence & Machine Learning, Data Science, Cybersecurity, and Cloud Computing.
+Specializations include Artificial Intelligence & Machine Learning, Data Science, Cybersecurity, and Cloud Computing.
+Key languages include Python, Java, C++, and JavaScript. Specialized languages like R and Swift are also covered.
+Yes, collaborations with IBM, Microsoft, and AWS Academy provide certifications, internships, and projects.
+Labs include AI/ML labs, IoT labs, Networking labs, Cloud Computing labs, and Cybersecurity labs.
+The student-to-faculty ratio is approximately 20:1.
+The department focuses on AI, ML, Big Data, Cybersecurity, Blockchain, and IoT.
+Yes, exchange programs are available with universities in the USA, UK, and Australia.
+Projects include machine learning models, cybersecurity solutions, mobile apps, blockchain systems, and AI-driven tools.
+"The incubation center supports entrepreneurship by offering mentorship, funding, and networking opportunities for tech startups.
+"
+Students can join clubs like AIML Society, MRSDC, or Cyber Cell through orientation sessions or directly through faculty coordinators.
+Career paths include Software Development, Data Science, AI, Cybersecurity, and Cloud Engineering.
+GATE/GRE prep includes mock tests, study materials, and faculty guidance.
+Workshops on AI, ML, Cloud Computing, Cybersecurity, and guest lectures by professionals from Google, Microsoft, and IBM are common.
+Yes, faculty mentors guide students on academic and career-related matters. Senior students also participate in peer mentoring.
+Students can apply from the 3rd semester with a minimum CGPA of 6.0, with department approval.
+The placement cell and faculty coordinators assist students in finding internships with top companies.
+The department offers research grants, access to advanced labs, and guidance for publishing papers in national and international journals.
+Internal competitions like Code-a-thon and global ones like Codeforces, ICPC, and Google Summer of Code are popular.
+Students must work on a comprehensive project applying theoretical and practical skills, often in collaboration with industry.
+Certifications from AWS, Microsoft, Google Cloud, and specialized courses in AI, ML, Data Science, and Cybersecurity are available.
+Industry experts help update the curriculum regularly. Certifications and guest lectures from Microsoft, IBM, and AWS also keep students updated.
+Placement training includes aptitude tests, technical interviews, mock interviews, and group discussions.
+Merit-based scholarships are available for students with excellent academic and extracurricular performance.
+Programs focused on communication, leadership, teamwork, and problem-solving are integrated into the technical courses.
+Collaboration is encouraged with students from other departments like Electronics and Mechanical for IoT, smart city, and AI-driven healthcare projects.
+A minimum of 75% attendance is required for theory and lab classes.
+Yes, the CSE department collaborates with startups and provides incubation support through the university's innovation cell.
+Students need to apply for reappear exams within a specified time after failing any subject. There is a fee for each subject reappear.
+Topics range from AI applications in healthcare, IoT-based systems, Cybersecurity frameworks, Blockchain technologies, and more.
+"Yes, students can apply for research grants under the schemes of the Department of Science & Technology, Government of India.
+"
+No, the department currently offers only the regular B.Tech program, but students can opt for certification programs alongside.
+Apart from technical clubs, CSE students can join music, sports, and other cultural clubs at MRIIRS.
+Industries like IT, Banking, Consulting, and E-commerce hire MRIIRS graduates, with companies like TCS, Infosys, and HCL being major recruiters.
+Yes, summer schools are available in collaboration with international universities and focus on topics like AI, Robotics, and Data Science.
+Students are graded based on their performance in exams, project submissions, and practical work, with continuous assessment contributing to the final grade.
+The department ensures accessible facilities, including ramps, elevators, and personalized academic support for differently-abled students.
+Common roles include Software Engineer, Data Analyst, Cybersecurity Analyst, Cloud Architect, and Full Stack Developer.
+3rd Semester
+The CSE department recently won awards at national hackathons and had research papers published in reputed journals.
+Coding boot camps, weekly coding challenges, and participation in platforms like LeetCode and GeeksforGeeks are organized.
+Yes, there are MoUs with universities in the UK, USA, and Australia for exchange programs and joint research.
+TAs assist in grading assignments, conducting lab sessions, and mentoring junior students.
+Yes, the department offers bridge courses in basic programming and computer fundamentals for students from other disciplines.
+Yes, MRIIRS hosts multiple hackathons annually, including institution-level and national-level events.
+Government job roles include software engineer, IT officer, and cybersecurity analyst in PSUs, banks, and defense services.
+Yes, students can join peer coding groups where senior students mentor juniors in programming and projects.
+The relationship is very collaborative, with an open-door policy allowing students to freely approach faculty for help.
+Alumni provide mentorship, help with placements, and often collaborate with the department to offer internships and projects.
+Occasionally, guest lecturers and visiting professors from foreign universities conduct workshops and seminars.
+Students have access to MATLAB, AutoCAD, AWS, Google Cloud, and Microsoft Azure, among others, for academic and research purposes.
+MRIIRS has a strict anti-plagiarism policy, and all submissions are checked using plagiarism detection software.
+Labs are open from 9:00 AM to 5:00 PM on weekdays. During project deadlines, labs may be open for extended hours.
+Events like hackathons, coding competitions, tech talks, and workshops on AI, ML, and robotics are frequently organized.
+The department maintains strong connections with companies like TCS, Infosys, Microsoft, and Google for internships, placements, and projects.
+Projects are evaluated based on innovation, application of concepts, problem-solving approach, and presentation in front of a panel.
+The average class size is around 60-70 students, allowing for personalized attention.
+Students can opt for languages like German, French, or Spanish as part of the elective courses.
+Exchange programs are available with partner universities in the USA, UK, and Australia for 1-semester study opportunities.
+Practical skills are assessed through lab assignments, viva exams, and hands-on projects.
+Students are encouraged to participate in open-source communities like GitHub, Google Summer of Code, and Hacktoberfest.
+Students can become class representatives, join the student council, or lead coding clubs and technical societies.
+Yes, students can collaborate with departments like Electronics or Mechanical Engineering on IoT, robotics, and smart city projects.
+Laptops are allowed for coding sessions and practical assignments, but mobile phones are generally restricted during lectures.
+MRIIRS provides counseling services and wellness programs to help students cope with academic and personal challenges.
+Students are encouraged to join university-driven initiatives, participate in NSS, or contribute through technical projects aimed at societal development.
+Yes, semester-long internships are offered in collaboration with companies, allowing students to work on industry projects as part of their coursework.
+Students can submit research papers in journals and conferences after approval from their faculty mentor. Proper citations and originality are mandatory.
+MRIIRS has an innovation and incubation center that offers mentorship, seed funding, and infrastructure support for startups.
+Students are encouraged to take part in soft skills workshops, leadership training, and communication development programs.
+Students can pursue higher education in India or abroad in fields like AI, Data Science, or Software Engineering. The department also helps with GRE and GATE preparation.
+The department offers training in global certifications and soft skills and provides guidance on applying for jobs or internships abroad.
+The department has specialized courses in data structures and algorithms, with regular coding practice on platforms like LeetCode and Codeforces.
+Yes, the department collaborates on government-funded research projects in areas like AI for smart cities and cybersecurity.
+Students are required to work in teams on group projects and are often assigned roles that reflect real-world job scenarios like developer, tester, and project manager.
+Students can choose electives from Cloud Computing, Blockchain, Cybersecurity, IoT, and AI-related courses in their 3rd and 4th years.
+Yes, the department collaborates with industries to offer students the chance to work on real-world problems through internships and projects.
+Students have access to e-libraries, research papers, coding platforms, and software licenses for educational purposes.
+MRIIRS promotes a diverse student body and faculty, ensuring equal opportunities for all genders and backgrounds.
+Yes, AI and ML courses are part of the core curriculum, with advanced electives available for students who want to specialize in these fields.
+Industry experts are invited as guest lecturers, and they also help in updating the curriculum to match industry trends.
+Academic performance is monitored through regular tests, assignments, project work, and mid-semester reviews by faculty.
+Students provide anonymous feedback at the end of each semester on the quality of teaching and curriculum, which helps improve the learning experience.
+The program covers imperative, object-oriented, functional, and declarative programming paradigms.
+The department works with the placement cell to arrange on-campus recruitment, job fairs, and pre-placement talks. Students also receive interview coaching and resume-building sessions.
+Students showcase their projects during department-organized tech fests, external competitions, and through digital portfolios.
+The department encourages students to participate in research projects, publish papers, and offers access to advanced labs and funding for innovative projects.
+Internships are available in areas like software development, data analytics, AI, cybersecurity, and more, through collaborations with tech companies and startups.
+The department provides career counseling, organizes workshops on resume writing, interview preparation, and connects students with industry professionals for mentorship.
